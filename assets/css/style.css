@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    height: 100vh !important;
+}
+
+.Logo{
+    font-family: 'Courier New', Courier, monospace;
+}
